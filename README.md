@@ -1,6 +1,6 @@
 # Triveous-Ecommerce-API
 
-- ```Server``` : [https://triveous-ecommerce-api.onrender.com](https://triveous-ecommerce-api.onrender.com)
+- ```Server``` : [https://pine-ecommerce-backend.onrender.com/](https://pine-ecommerce-backend.onrender.com/)
 
 
 ## Features
